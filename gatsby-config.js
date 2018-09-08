@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Default Starter',
+    title: 'Nova Software Development Ltd',
   },
   plugins: ['gatsby-plugin-react-helmet'],
 }
